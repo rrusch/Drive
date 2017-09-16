@@ -1,0 +1,6 @@
+[submodule "examples/Servodrive/libraries/Led"]
+	path = examples/Servodrive/libraries/Led
+	url = https://github.com/rrusch/Led.git
+[submodule "examples/Servodrive/libraries/Button"]
+	path = examples/Servodrive/libraries/Button
+	url = https://github.com/rrusch/Button.git
