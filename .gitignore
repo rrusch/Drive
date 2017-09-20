@@ -43,6 +43,8 @@ Desktop.ini
 
 /sloeber.ino.cpp
 /Release
+/L293drive
+/Servodrive
 /core
 /libraries
 

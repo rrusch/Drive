@@ -12,6 +12,7 @@
 #include <Arduino.h>
 #include "Motor/Drive_Motor.h"
 #include "Motor/Drive_Motor_Servo.h"
+#include "Motor/Drive_Motor_L293.h"
 
 class Drive
 {

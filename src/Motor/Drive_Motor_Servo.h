@@ -10,7 +10,6 @@
 #include <Arduino.h>
 #include <Servo.h>
 #include "../Drive.h"
-#include "Drive_Motor.h"
 
 class Drive_Motor_Servo: public Drive_Motor
 {
